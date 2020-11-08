@@ -1,5 +1,6 @@
 import React from "react";
 import { Button, ButtonSizes } from "@viasat/vci-components";
+// @ts-ignore
 import { setDataLimit } from "@ktaboada/api";
 import {
   BuyMoreCardContainer,

@@ -7,6 +7,7 @@ import {
   ButtonSizes,
 } from "@viasat/vci-components";
 import { BuyMoreCard } from "../components/BuyMore/BuyMoreCard";
+// @ts-ignore
 import { events } from "@ktaboada/api";
 
 export const BuyMoreDrawer = ({ eventBus, setShowModal }) => {
